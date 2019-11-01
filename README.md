@@ -4,10 +4,13 @@ This is the Enpass-setup.exe
 
 Source: 
 https://www.enpass.io/
+
 https://dl.enpass.io/stable/windows/setup/6.2.0.539/Enpass-setup.exe
 
 MD5 4686ebde7c4c93c5538b85949477a624
+
 SHA-1 4c747d3b84ebe7deedf03db32f1d0daa33d1c175
+
 SHA-256 4ad268b913f589513d167aa2591ed806cadcb0ec5e1c3154378ca334b5adc87b
 
 https://www.virustotal.com/gui/file/4ad268b913f589513d167aa2591ed806cadcb0ec5e1c3154378ca334b5adc87b/behavior/VirusTotal%20Jujubox
