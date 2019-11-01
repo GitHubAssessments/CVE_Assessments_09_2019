@@ -40,6 +40,8 @@ https://sensorstechforum.com/waifu-files-virus-dharma-ransomware-remove-restore-
 C:\Windows\Temp{26B60979-3787-4506-BC8B-70B6D7E42B09}\.ba\wixstdba.dll
 sha256 7b9f919a3d1974fd8fa35ad189edc8bf287f476bd377e713e616b26864a4b0d3
 
+https://www.virustotal.com/gui/file/7b9f919a3d1974fd8fa35ad189edc8bf287f476bd377e713e616b26864a4b0d3/details
+
 However the WiX Toolset was found recently vulnerable:
 
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-16511
